@@ -1,6 +1,6 @@
 # vue-demo
 
-> A Vue.js project
+> A .net core with Vue.js project
 
 ## Build Setup
 
